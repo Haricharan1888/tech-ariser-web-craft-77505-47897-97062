@@ -1,0 +1,13 @@
+# Tech Ariser Global - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://techariserglobal.com/sitemap.xml
+
+# Crawl-delay for respectful bots
+Crawl-delay: 1
+
+# Block specific directories if needed
+# Disallow: /admin/
+# Disallow: /api/
