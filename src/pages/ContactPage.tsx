@@ -157,6 +157,23 @@ const ContactPage = () => {
               </form>
             </div>
           </div>
+
+          {/* Google Maps */}
+          <div className="mt-16">
+            <h2 className="text-2xl font-bold mb-6 text-foreground font-heading text-center">Our Location</h2>
+            <div className="rounded-xl overflow-hidden border border-border shadow-card h-[400px]">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3347.5!2d-96.8037!3d32.9297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c21f5e8b1d1a7%3A0x0!2s18383+Preston+Rd+%23202%2C+Dallas%2C+TX+75252!5e0!3m2!1sen!2sus!4v1"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Tech Ariser Global LLC Location"
+              />
+            </div>
+          </div>
         </div>
       </div>
     </div>

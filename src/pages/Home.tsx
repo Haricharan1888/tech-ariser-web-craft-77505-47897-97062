@@ -25,7 +25,7 @@ const Home = () => {
           loading="eager"
           decoding="async"
         />
-        <div className="absolute inset-0 bg-white/40" />
+        <div className="absolute inset-0 bg-black/50" />
       </div>
 
       {/* Animated Background Elements */}
