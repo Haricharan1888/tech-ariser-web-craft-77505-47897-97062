@@ -3,6 +3,7 @@ import { ArrowRight, Play, Network, Cloud, Shield, Lightbulb, Settings, CheckCir
 import { Link } from "react-router-dom";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import heroHome from "@/assets/hero-home.jpg";
+import homeConsultant from "@/assets/home-consultant.png";
 import serviceNetwork from "@/assets/service-network-home.jpg";
 import serviceCloud from "@/assets/service-cloud-home.jpg";
 import serviceSecurity from "@/assets/service-security-home.jpg";
