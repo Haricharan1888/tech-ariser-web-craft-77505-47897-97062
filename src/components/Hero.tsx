@@ -19,7 +19,7 @@ const Hero = () => {
           alt="Modern IT infrastructure and digital transformation"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-white/40" />
+        <div className="absolute inset-0 bg-black/60" />
       </div>
 
       {/* Animated Background Elements */}
