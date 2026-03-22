@@ -65,9 +65,9 @@ const ContactPage = () => {
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Address</h3>
                     <p className="text-muted-foreground">
-                      Tech Ariser Global<br />
-                      4400 Bandera Drive<br />
-                      Prosper, TX, USA
+                      Tech Ariser Global LLC<br />
+                      18383 Preston Rd, #202<br />
+                      Dallas, TX 75252
                     </p>
                   </div>
                 </div>

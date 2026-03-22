@@ -116,8 +116,8 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="w-4 h-4 mr-2 mt-1 flex-shrink-0 text-cyan-400" />
                 <span className="text-gray-400">
-                  4400 Bandera Drive<br />
-                  Prosper, TX, USA
+                  18383 Preston Rd, #202<br />
+                  Dallas, TX 75252
                 </span>
               </li>
               <li className="flex items-center">
