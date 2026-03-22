@@ -117,6 +117,21 @@ const Home = () => {
 
     </section>
 
+    {/* Consultant Image Section */}
+    <section className="py-16 bg-muted/20">
+      <div className="container mx-auto px-4 lg:px-8">
+        <div className="max-w-5xl mx-auto overflow-hidden rounded-2xl shadow-card">
+          <img
+            src={homeConsultant}
+            alt="IT consultant working on digital solutions"
+            className="w-full h-auto object-cover"
+            loading="lazy"
+            decoding="async"
+          />
+        </div>
+      </div>
+    </section>
+
     {/* Services Preview Section */}
     <section className="py-20 bg-background">
       <div className="container mx-auto px-4 lg:px-8">
